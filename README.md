@@ -1,6 +1,6 @@
 # PHP Progress
 
-> _Just take your time_
+> *Just take your time*
 
 # Levels
 
